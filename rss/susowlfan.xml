@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>susowlfan TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/susowlfan.xml</link>
+    <description>OK Boomer, all the latest TikToks from susowlfan</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/susowlfan.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>susowlfan TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/susowlfan.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Jan 2025 18:29:14 +0000</lastBuildDate>
+    <item>
+      <title>@susowlsolana #susowl #solana #token #memecoin #sol #crypto #blockchain #bitcoin #btc #meme #1000x #dexscreener</title>
+      <link>https://tiktok.com/@susowlfan/video/7457119178919529760</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/susowlfan/screenshot_oMeA677ANBEIFOAiyaGx8dQLeIKSSBWegLeJ7E.jpg" / &gt; @susowlsolana #susowl #solana #token #memecoin #sol #crypto #blockchain #bitcoin #btc #meme #1000x #dexscreener</description>
+      <guid isPermaLink="false">https://tiktok.com/@susowlfan/video/7457119178919529760</guid>
+      <pubDate>Tue, 07 Jan 2025 10:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>@susowlsolana #susowl #solana #token #memecoin #sol #crypto #blockchain #bitcoin #btc #meme #1000x</title>
+      <link>https://tiktok.com/@susowlfan/video/7457242379255319840</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/susowlfan/screenshot_oYUInFBRGDcfdeZ9ooFJgJQErA9TACzfEfEORX.jpg" / &gt; @susowlsolana #susowl #solana #token #memecoin #sol #crypto #blockchain #bitcoin #btc #meme #1000x</description>
+      <guid isPermaLink="false">https://tiktok.com/@susowlfan/video/7457242379255319840</guid>
+      <pubDate>Tue, 07 Jan 2025 18:29:14 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
